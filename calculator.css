@@ -1,0 +1,49 @@
+body{
+    background-image:url(https://img.freepik.com/free-photo/abstract-dark-twisted-tunnel-constructed-with-star-shape_1217-2603.jpg);
+    background-size: contain;
+    color: aliceblue;
+    margin: 0%;
+    padding: 0%;
+}
+.main{
+  
+   margin-top: 150px;
+    margin-left: 40% ;
+    height: 550px;
+    width: 400px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.input{
+    width: 380px;
+    font-size: 40px;
+    font-weight: 200;
+    margin: 7px;
+    height: 50px;
+    background-color: transparent;
+    color: azure;
+    box-shadow: 0px 3px 15px rgbs(84,84,84,0.1);
+    margin-bottom: 10px;
+    text-align: right;
+}
+div>button{
+    font-size: 30px;
+    background-color: black;
+    font-weight: 200;
+    display: inline;
+    height: 80px;
+    width: 80px;
+    align-items: center;
+    margin: 8px;
+    
+    border-radius: 50px;
+    background-color: transparent;
+    color: white;
+    box-shadow: -8px -8px 15px rgb(255, 255, 255 , 0.1);
+}
+div .up{
+    color: lawngreen;
+}
+.ye{
+    background-color: orange;
+}
